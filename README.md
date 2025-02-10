@@ -147,11 +147,11 @@ To start contributing, you can follow these steps:
 
 <!-- automd:contributors license=Apache author=HugoRCD github="hugorcd/canvas-nuxthub" -->
 
-Published under the [APACHE](https://github.com/hugorcd/canvas/blob/main/LICENSE) license.
-Made by [@HugoRCD](https://github.com/HugoRCD) and [community](https://github.com/hugorcd/canvas/graphs/contributors) 💛
+Published under the [APACHE](https://github.com/hugorcd/canvas-nuxthub/blob/main/LICENSE) license.
+Made by [@HugoRCD](https://github.com/HugoRCD) and [community](https://github.com/hugorcd/canvas-nuxthub/graphs/contributors) 💛
 <br><br>
-<a href="https://github.com/hugorcd/canvas/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=hugorcd/canvas" />
+<a href="https://github.com/hugorcd/canvas-nuxthub/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=hugorcd/canvas-nuxthub" />
 </a>
 
 <!-- /automd -->
@@ -160,6 +160,6 @@ Made by [@HugoRCD](https://github.com/HugoRCD) and [community](https://github.co
 
 ---
 
-_🤖 auto updated with [automd](https://automd.unjs.io) (last updated: Fri Jan 31 2025)_
+_🤖 auto updated with [automd](https://automd.unjs.io) (last updated: Mon Feb 10 2025)_
 
 <!-- /automd -->
