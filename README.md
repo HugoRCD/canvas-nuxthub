@@ -13,35 +13,28 @@
 
 # Canvas template
 
-This is a fully customizable portfolio template built with [Nuxt.js](https://nuxtjs.org/) and [Tailwind CSS](https://tailwindcss.com/). Use it to showcase your work, testimonials and other information to your clients.
+Canvas Portfolio is a fully customizable i18n portfolio template built with Nuxt and Nuxt UI, designed to help you showcase your work, testimonials, and key information with ease. The template integrates with Nuxt Studio for a smooth editing experience, while leveraging Nuxt Content for content management. Built with performance, flexibility, and responsiveness in mind, Canvas Portfolio provides a robust foundation for developers and creatives alike.
 
 ## Demo
 
-You can see a live demo at [canvas.hrcd.fr](https://canvas.hrcd.fr/).
+You can see a live demo at [hub.canvas.hrcd.fr](https://canvas.hrcd.fr/).
 
 ## Deploy to Nuxthub
 
-[![Deploy to NuxtHub](https://hub.nuxt.com/button.svg)](https://hub.nuxt.com/new?repo=HugoRCD/canvas)
+[![Deploy to NuxtHub](https://hub.nuxt.com/button.svg)](https://hub.nuxt.com/new?repo=HugoRCD/canvas-nuxthub)
 
 ## Features
 
-- [Nuxt Content](https://content.nuxt.com/) for easy content management
-- Full and simple [Nuxt Studio](https://nuxt.studio/) editor support
-- Built-in Awesome Component & Layout
-- [NuxtUI](https://ui3.nuxt.com/) v3 components
-- [Tailwind CSS](https://tailwindcss.com/)
-- Working contact form with [Resend](https://resend.com/)
-- [Nuxt i18n](https://i18n.nuxtjs.org/) for multi-language support
-- Open Graph Image support with [Nuxt OG Image](https://nuxtseo.com/og-image/getting-started/installation)
-- [Nuxt Robots](https://sitemap.nuxt.com/) for auto-generate robots.txt
-- [ESLint](https://eslint.org/) with official Nuxt configuration (ESLint v9 with Flat config)
-- Full typescript support
-- Optimized images with [Nuxt Image](https://image.nuxt.com/)
-- [Vue Composition Collection (Vueuse)](https://vueuse.org/)
-- Fully responsive on all modern browsers
-- Professional and minimal design
-- Easy to customize
-- Auto generated sitemap
+- **Modern Components & Layouts** – Includes built-in components.
+- **Nuxt UI v3** – Utilize pre-built, customizable UI components.
+- **NuxtHub ready** - Deploy on NuxtHub in seconds.
+- **Tailwind CSS** – A beautiful, responsive design system.
+- **Working Contact Form** – Integrated with Resend for easy email handling.
+- **Multi-language Support** – Powered by Nuxt i18n.
+- **SEO-Ready** – Open Graph Image (Nuxt OG Image) & Nuxt Robots for automatic robots.txt generation.
+- **Good practices** – Auto-generated sitemap, optimized images (Nuxt Image), and ESLint (Nuxt config with Flat config).
+- **Fully Responsive** – Adapts to all modern browsers and devices.
+- **Minimal & Professional Design** – Clean, elegant, and easy to customize.
 
 ## Quick Setup
 
