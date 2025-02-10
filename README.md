@@ -19,9 +19,9 @@ This is a fully customizable portfolio template built with [Nuxt.js](https://nux
 
 You can see a live demo at [canvas.hrcd.fr](https://canvas.hrcd.fr/).
 
-## Deploy to Vercel
+## Deploy to Nuxthub
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FHugoRCD%2Fcanvas&env=NUXT_PRIVATE_RESEND_API_KEY,NUXT_PUBLIC_SITE_URL&envDescription=You%20will%20require%20an%20API%20key%20for%20Resend%20and%20Nuxt%20Studio%2C%20but%20it%20is%20not%20essential%20for%20the%20portfolio%20to%20work.%20Simply%20add%20%22test%2C%22%20for%20example%2C%20and%20edit%20the%20variable%20later.&project-name=canvas-portfolio&repository-name=canvas-portfolio&demo-title=Canvas&demo-url=canvas.hrcd.fr&demo-image=https%3A%2F%2Fcanvas.hrcd.fr%2Fog.png)
+[![Deploy to NuxtHub](https://hub.nuxt.com/button.svg)](https://hub.nuxt.com/new?repo=HugoRCD/canvas)
 
 ## Features
 
@@ -47,7 +47,7 @@ You can see a live demo at [canvas.hrcd.fr](https://canvas.hrcd.fr/).
 
 1. Clone this repository if you have access or download it from the store
 ```bash
-git clone git@github.com:HugoRCD/canvas.git
+git clone git@github.com:HugoRCD/canvas-nuxthub.git
 ```
 
 2. Install dependencies
@@ -145,7 +145,7 @@ To start contributing, you can follow these steps:
 
 <!-- /automd -->
 
-<!-- automd:contributors license=Apache author=HugoRCD github="hugorcd/canvas" -->
+<!-- automd:contributors license=Apache author=HugoRCD github="hugorcd/canvas-nuxthub" -->
 
 Published under the [APACHE](https://github.com/hugorcd/canvas/blob/main/LICENSE) license.
 Made by [@HugoRCD](https://github.com/HugoRCD) and [community](https://github.com/hugorcd/canvas/graphs/contributors) 💛
